@@ -1,0 +1,11 @@
+[package]
+
+name = "rustssl"
+version = "0.0.1"
+authors = ["The RustSSL project developers"]
+license = "BSD-2-Clause"
+homepage = "https://github.com/RustSSL/rustssl"
+repository = "https://github.com/RustSSL/rustssl"
+description = """
+A Rust implementation of the OpenSSL toolkit/library
+"""
